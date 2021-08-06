@@ -76,6 +76,7 @@ set(JLCXX_HEADERS
     ${JLCXX_INCLUDE_DIR}/jlcxx/const_array.hpp
     ${JLCXX_INCLUDE_DIR}/jlcxx/jlcxx.hpp
     ${JLCXX_INCLUDE_DIR}/jlcxx/jlcxx_config.hpp
+    ${JLCXX_INCLUDE_DIR}/jlcxx/julia_headers.hpp
     ${JLCXX_INCLUDE_DIR}/jlcxx/functions.hpp
     ${JLCXX_INCLUDE_DIR}/jlcxx/module.hpp
     ${JLCXX_INCLUDE_DIR}/jlcxx/smart_pointers.hpp
